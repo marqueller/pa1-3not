@@ -1,0 +1,14 @@
+Leonardo Dos Santos Branco
+CEDUP Renato Ramos
+
+																												Trabalho node js
+
+Node.js oferece várias vantagens que o tornam uma escolha popular para o desenvolvimento de aplicações web e de tempo real. Uma das principais vantagens é seu alto desempenho, pois utiliza um motor do próprio Google, que compila JavaScript diretamente para código de máquina, resultando em uma execução muito rápida. Além disso, a arquitetura de entrada e saída não bloqueante do Node.js permite que ele processe muitas conexões simultaneamente com uma única thread, tornando-o extremamente eficiente para aplicações que exigem alto desempenho e escalabilidade.
+
+Outro ponto positivo é que o Node.js permite que os desenvolvedores usem JavaScript tanto no frontend quanto no backend, o que facilita a manutenção e integração do código, além de proporcionar uma curva de aprendizado mais suave. O ecossistema do Node.js é bastante vasto, graças ao NPM (Node Package Manager), que oferece uma enorme biblioteca de módulos e pacotes que podem ser facilmente integrados nas aplicações, acelerando o desenvolvimento e permitindo a reutilização de código existente.
+
+A comunidade de desenvolvedores de Node.js é grande e ativa, proporcionando amplo suporte, tutoriais e recursos, o que facilita a resolução de problemas e a adoção de boas práticas. No entanto, Node.js também apresenta algumas desvantagens. Uma delas é o modelo de programação assíncrono, que pode ser difícil de entender e implementar corretamente, especialmente para desenvolvedores acostumados com programação síncrona. Isso pode levar a erros comuns, como o "callback hell", onde callbacks aninhados se tornam difíceis de gerenciar e entender.
+
+Além disso, embora Node.js seja excelente para operações de entrada e saída, ele não é a melhor escolha para aplicações que exigem processamento intensivo de CPU, como computação científica ou manipulação de grandes volumes de dados. Operações que bloqueiam o event loop podem degradar significativamente o desempenho da aplicação. A qualidade e manutenção dos módulos disponíveis no NPM podem variar, e alguns pacotes podem não ser bem mantidos ou conter dependências inseguras, exigindo cuidado na seleção e uso.
+
+A segurança é outra preocupação com Node.js, especialmente ao utilizar muitos pacotes de terceiros. É crucial seguir práticas de segurança rigorosas, como auditoria de pacotes e atualizações constantes, para mitigar vulnerabilidades. Embora recentemente tenham sido introduzidas melhorias com os Workers Threads, o suporte a multi-threading no Node.js ainda é limitado em comparação com outras plataformas.
