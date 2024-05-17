@@ -1,0 +1,12 @@
+Evelin Daiana de Sá Souza
+3° módulo Tecnico em Informática
+
+			Trabalho Node JS
+
+Node.js é uma plataforma que permite executar JavaScript no servidor, fora do navegador. É conhecido por sua alta performance, pois usa o motor V8 do Google Chrome, e por ser assíncrono e orientado a eventos, o que permite lidar com muitas conexões ao mesmo tempo sem travar. 
+
+Entre as vantagens, destacam-se a rapidez de execução, a escalabilidade, uma grande comunidade e ecossistema de pacotes (npm), e a possibilidade de usar JavaScript tanto no front-end quanto no back-end, facilitando o desenvolvimento.
+
+Por outro lado, suas desvantagens incluem a complexidade do modelo assíncrono, que pode ser difícil de entender e manter, não ser ideal para tarefas intensivas de CPU, a variabilidade na qualidade dos pacotes disponíveis, algumas dificuldades de depuração e possíveis problemas de segurança ao usar muitos módulos de terceiros. 
+
+No geral, Node.js é uma ótima escolha para aplicações que precisam lidar com muitas conexões simultâneas, como chats e APIs em tempo real, mas pode não ser a melhor opção para tarefas que exigem muita computação.
