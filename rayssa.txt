@@ -1,0 +1,21 @@
+CEDUP RENATO RAMOS DA SILVA
+PROFESSOR: ALEX                                                                     DATA: 16/05/2024
+ALUNA: RAYSSA ROMANIUK RISCAROLLI
+CURSO: INFORMÁTICA MOD 3
+
+NODE.JS
+
+Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
+A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos. O runtime do Node.js é single-thread — uma única thread (chamada de Event Loop) é responsável por executar o código Javascript, sem a necessidade de criar novas threads, o que torna o código mais simples de manter. Chamadas que seriam bloqueantes, como entrada/saída, são realizadas de forma assíncrona usando a libuv.
+
+Características
+A principal característica e diferença de outras tecnologias (como PHP, Java, C# e C) é a execução das requisições/eventos em single-thread, onde apenas uma thread (chamada de Event Loop) é responsável por executar o código Javascript, sem a necessidade de criar nova thread que utilizaria mais recursos computacionais (por exemplo memória RAM) e sem o uso da fila de espera. 
+Gerenciamento de pacotes
+O gerenciamento dos pacotes é feito através do node package manager (npm), e npx (node package extractor), o npx foi introduzido na versão 5.2.0 do JavaScript, antes deveria ser instalado individualmente. O primeiro tem o propósito de instalar para uso posterior código armazenado num package de nodejs, instalando o software globalmente ou localmente, já o segundo tem o propósito de executar a nível local o código instalado globalmente. Um exemplo disso é o npx create-react-app que tem como propósito instalar em nível local um gabarito (template) vazio de um site de react, pronto a ser usado, através de uma fórmula instalada com npm.
+
+Vantagens
+
+•	FLEXIBILIDADE
+•	LEVEZA
+•	SUPORTE
+•	PRODUTIVIDADE
